@@ -1,0 +1,13 @@
+C:\Users\Alejandro\source\repos\Nomina\Nomina\bin\Debug\Nomina.exe.config
+C:\Users\Alejandro\source\repos\Nomina\Nomina\bin\Debug\Nomina.exe
+C:\Users\Alejandro\source\repos\Nomina\Nomina\bin\Debug\Nomina.pdb
+C:\Users\Alejandro\source\repos\Nomina\Nomina\bin\Debug\Clases.dll
+C:\Users\Alejandro\source\repos\Nomina\Nomina\bin\Debug\Clases.pdb
+C:\Users\Alejandro\source\repos\Nomina\Nomina\obj\Debug\Nomina.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\Nomina\Nomina\obj\Debug\Nomina.Form1.resources
+C:\Users\Alejandro\source\repos\Nomina\Nomina\obj\Debug\Nomina.Properties.Resources.resources
+C:\Users\Alejandro\source\repos\Nomina\Nomina\obj\Debug\Nomina.csproj.GenerateResource.cache
+C:\Users\Alejandro\source\repos\Nomina\Nomina\obj\Debug\Nomina.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\Nomina\Nomina\obj\Debug\Nomina.csproj.CopyComplete
+C:\Users\Alejandro\source\repos\Nomina\Nomina\obj\Debug\Nomina.exe
+C:\Users\Alejandro\source\repos\Nomina\Nomina\obj\Debug\Nomina.pdb

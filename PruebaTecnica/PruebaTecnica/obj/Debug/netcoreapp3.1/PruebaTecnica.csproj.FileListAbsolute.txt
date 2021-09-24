@@ -1,0 +1,13 @@
+C:\Users\Alejandro\source\repos\PruebaTecnica\PruebaTecnica\bin\Debug\netcoreapp3.1\PruebaTecnica.exe
+C:\Users\Alejandro\source\repos\PruebaTecnica\PruebaTecnica\bin\Debug\netcoreapp3.1\PruebaTecnica.deps.json
+C:\Users\Alejandro\source\repos\PruebaTecnica\PruebaTecnica\bin\Debug\netcoreapp3.1\PruebaTecnica.runtimeconfig.json
+C:\Users\Alejandro\source\repos\PruebaTecnica\PruebaTecnica\bin\Debug\netcoreapp3.1\PruebaTecnica.runtimeconfig.dev.json
+C:\Users\Alejandro\source\repos\PruebaTecnica\PruebaTecnica\bin\Debug\netcoreapp3.1\PruebaTecnica.dll
+C:\Users\Alejandro\source\repos\PruebaTecnica\PruebaTecnica\bin\Debug\netcoreapp3.1\PruebaTecnica.pdb
+C:\Users\Alejandro\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\netcoreapp3.1\PruebaTecnica.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\netcoreapp3.1\PruebaTecnica.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\netcoreapp3.1\PruebaTecnica.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\netcoreapp3.1\PruebaTecnica.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\netcoreapp3.1\PruebaTecnica.dll
+C:\Users\Alejandro\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\netcoreapp3.1\PruebaTecnica.pdb
+C:\Users\Alejandro\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\netcoreapp3.1\PruebaTecnica.genruntimeconfig.cache

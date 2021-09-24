@@ -1,0 +1,13 @@
+C:\Users\Alejandro\source\repos\ExamenBucles\ExamenBucles\bin\Debug\netcoreapp3.1\ExamenBucles.exe
+C:\Users\Alejandro\source\repos\ExamenBucles\ExamenBucles\bin\Debug\netcoreapp3.1\ExamenBucles.deps.json
+C:\Users\Alejandro\source\repos\ExamenBucles\ExamenBucles\bin\Debug\netcoreapp3.1\ExamenBucles.runtimeconfig.json
+C:\Users\Alejandro\source\repos\ExamenBucles\ExamenBucles\bin\Debug\netcoreapp3.1\ExamenBucles.runtimeconfig.dev.json
+C:\Users\Alejandro\source\repos\ExamenBucles\ExamenBucles\bin\Debug\netcoreapp3.1\ExamenBucles.dll
+C:\Users\Alejandro\source\repos\ExamenBucles\ExamenBucles\bin\Debug\netcoreapp3.1\ExamenBucles.pdb
+C:\Users\Alejandro\source\repos\ExamenBucles\ExamenBucles\obj\Debug\netcoreapp3.1\ExamenBucles.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\ExamenBucles\ExamenBucles\obj\Debug\netcoreapp3.1\ExamenBucles.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\ExamenBucles\ExamenBucles\obj\Debug\netcoreapp3.1\ExamenBucles.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\ExamenBucles\ExamenBucles\obj\Debug\netcoreapp3.1\ExamenBucles.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\ExamenBucles\ExamenBucles\obj\Debug\netcoreapp3.1\ExamenBucles.dll
+C:\Users\Alejandro\source\repos\ExamenBucles\ExamenBucles\obj\Debug\netcoreapp3.1\ExamenBucles.pdb
+C:\Users\Alejandro\source\repos\ExamenBucles\ExamenBucles\obj\Debug\netcoreapp3.1\ExamenBucles.genruntimeconfig.cache

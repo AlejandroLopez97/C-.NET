@@ -1,0 +1,10 @@
+C:\Users\Alejandro\source\repos\VectoresWindowsForm\VectoresWindowsForm\bin\Debug\VectoresWindowsForm.exe.config
+C:\Users\Alejandro\source\repos\VectoresWindowsForm\VectoresWindowsForm\bin\Debug\VectoresWindowsForm.exe
+C:\Users\Alejandro\source\repos\VectoresWindowsForm\VectoresWindowsForm\bin\Debug\VectoresWindowsForm.pdb
+C:\Users\Alejandro\source\repos\VectoresWindowsForm\VectoresWindowsForm\obj\Debug\VectoresWindowsForm.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\VectoresWindowsForm\VectoresWindowsForm\obj\Debug\VectoresWindowsForm.Form1.resources
+C:\Users\Alejandro\source\repos\VectoresWindowsForm\VectoresWindowsForm\obj\Debug\VectoresWindowsForm.Properties.Resources.resources
+C:\Users\Alejandro\source\repos\VectoresWindowsForm\VectoresWindowsForm\obj\Debug\VectoresWindowsForm.csproj.GenerateResource.cache
+C:\Users\Alejandro\source\repos\VectoresWindowsForm\VectoresWindowsForm\obj\Debug\VectoresWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\VectoresWindowsForm\VectoresWindowsForm\obj\Debug\VectoresWindowsForm.exe
+C:\Users\Alejandro\source\repos\VectoresWindowsForm\VectoresWindowsForm\obj\Debug\VectoresWindowsForm.pdb

@@ -1,0 +1,10 @@
+C:\Users\Alejandro\source\repos\GestionGastos\GestionGastos\bin\Debug\GestionGastos.exe.config
+C:\Users\Alejandro\source\repos\GestionGastos\GestionGastos\bin\Debug\GestionGastos.exe
+C:\Users\Alejandro\source\repos\GestionGastos\GestionGastos\bin\Debug\GestionGastos.pdb
+C:\Users\Alejandro\source\repos\GestionGastos\GestionGastos\obj\Debug\GestionGastos.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\GestionGastos\GestionGastos\obj\Debug\GestionGastos.Form1.resources
+C:\Users\Alejandro\source\repos\GestionGastos\GestionGastos\obj\Debug\GestionGastos.Properties.Resources.resources
+C:\Users\Alejandro\source\repos\GestionGastos\GestionGastos\obj\Debug\GestionGastos.csproj.GenerateResource.cache
+C:\Users\Alejandro\source\repos\GestionGastos\GestionGastos\obj\Debug\GestionGastos.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\GestionGastos\GestionGastos\obj\Debug\GestionGastos.exe
+C:\Users\Alejandro\source\repos\GestionGastos\GestionGastos\obj\Debug\GestionGastos.pdb

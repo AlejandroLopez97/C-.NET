@@ -1,0 +1,13 @@
+C:\Users\Alejandro\source\repos\PracticaFinal\PracticaFinal\bin\Debug\PracticaFinal.exe.config
+C:\Users\Alejandro\source\repos\PracticaFinal\PracticaFinal\bin\Debug\PracticaFinal.exe
+C:\Users\Alejandro\source\repos\PracticaFinal\PracticaFinal\bin\Debug\PracticaFinal.pdb
+C:\Users\Alejandro\source\repos\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.Libreria.resources
+C:\Users\Alejandro\source\repos\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.Properties.Resources.resources
+C:\Users\Alejandro\source\repos\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.csproj.GenerateResource.cache
+C:\Users\Alejandro\source\repos\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.exe
+C:\Users\Alejandro\source\repos\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.pdb
+C:\Users\Alejandro\source\repos\PracticaFinal\PracticaFinal\bin\Debug\Clases.dll
+C:\Users\Alejandro\source\repos\PracticaFinal\PracticaFinal\bin\Debug\Clases.pdb
+C:\Users\Alejandro\source\repos\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.csproj.CopyComplete

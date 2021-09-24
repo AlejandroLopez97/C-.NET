@@ -1,0 +1,10 @@
+C:\Users\Alejandro\source\repos\Matrices\Matrices\bin\Debug\Matrices.exe.config
+C:\Users\Alejandro\source\repos\Matrices\Matrices\bin\Debug\Matrices.exe
+C:\Users\Alejandro\source\repos\Matrices\Matrices\bin\Debug\Matrices.pdb
+C:\Users\Alejandro\source\repos\Matrices\Matrices\obj\Debug\Matrices.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\Matrices\Matrices\obj\Debug\Matrices.Form1.resources
+C:\Users\Alejandro\source\repos\Matrices\Matrices\obj\Debug\Matrices.Properties.Resources.resources
+C:\Users\Alejandro\source\repos\Matrices\Matrices\obj\Debug\Matrices.csproj.GenerateResource.cache
+C:\Users\Alejandro\source\repos\Matrices\Matrices\obj\Debug\Matrices.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\Matrices\Matrices\obj\Debug\Matrices.exe
+C:\Users\Alejandro\source\repos\Matrices\Matrices\obj\Debug\Matrices.pdb

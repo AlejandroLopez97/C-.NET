@@ -1,0 +1,13 @@
+C:\Users\Alejandro\source\repos\EjercicioPractico1\EjercicioPractico1\bin\Debug\netcoreapp3.1\EjercicioPractico1.exe
+C:\Users\Alejandro\source\repos\EjercicioPractico1\EjercicioPractico1\bin\Debug\netcoreapp3.1\EjercicioPractico1.deps.json
+C:\Users\Alejandro\source\repos\EjercicioPractico1\EjercicioPractico1\bin\Debug\netcoreapp3.1\EjercicioPractico1.runtimeconfig.json
+C:\Users\Alejandro\source\repos\EjercicioPractico1\EjercicioPractico1\bin\Debug\netcoreapp3.1\EjercicioPractico1.runtimeconfig.dev.json
+C:\Users\Alejandro\source\repos\EjercicioPractico1\EjercicioPractico1\bin\Debug\netcoreapp3.1\EjercicioPractico1.dll
+C:\Users\Alejandro\source\repos\EjercicioPractico1\EjercicioPractico1\bin\Debug\netcoreapp3.1\EjercicioPractico1.pdb
+C:\Users\Alejandro\source\repos\EjercicioPractico1\EjercicioPractico1\obj\Debug\netcoreapp3.1\EjercicioPractico1.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\EjercicioPractico1\EjercicioPractico1\obj\Debug\netcoreapp3.1\EjercicioPractico1.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\EjercicioPractico1\EjercicioPractico1\obj\Debug\netcoreapp3.1\EjercicioPractico1.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\EjercicioPractico1\EjercicioPractico1\obj\Debug\netcoreapp3.1\EjercicioPractico1.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\EjercicioPractico1\EjercicioPractico1\obj\Debug\netcoreapp3.1\EjercicioPractico1.dll
+C:\Users\Alejandro\source\repos\EjercicioPractico1\EjercicioPractico1\obj\Debug\netcoreapp3.1\EjercicioPractico1.pdb
+C:\Users\Alejandro\source\repos\EjercicioPractico1\EjercicioPractico1\obj\Debug\netcoreapp3.1\EjercicioPractico1.genruntimeconfig.cache

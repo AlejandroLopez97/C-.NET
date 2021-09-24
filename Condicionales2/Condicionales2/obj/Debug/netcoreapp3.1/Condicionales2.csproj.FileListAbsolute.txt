@@ -1,0 +1,13 @@
+C:\Users\Alejandro\source\repos\Condicionales2\Condicionales2\bin\Debug\netcoreapp3.1\Condicionales2.exe
+C:\Users\Alejandro\source\repos\Condicionales2\Condicionales2\bin\Debug\netcoreapp3.1\Condicionales2.deps.json
+C:\Users\Alejandro\source\repos\Condicionales2\Condicionales2\bin\Debug\netcoreapp3.1\Condicionales2.runtimeconfig.json
+C:\Users\Alejandro\source\repos\Condicionales2\Condicionales2\bin\Debug\netcoreapp3.1\Condicionales2.runtimeconfig.dev.json
+C:\Users\Alejandro\source\repos\Condicionales2\Condicionales2\bin\Debug\netcoreapp3.1\Condicionales2.dll
+C:\Users\Alejandro\source\repos\Condicionales2\Condicionales2\bin\Debug\netcoreapp3.1\Condicionales2.pdb
+C:\Users\Alejandro\source\repos\Condicionales2\Condicionales2\obj\Debug\netcoreapp3.1\Condicionales2.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\Condicionales2\Condicionales2\obj\Debug\netcoreapp3.1\Condicionales2.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\Condicionales2\Condicionales2\obj\Debug\netcoreapp3.1\Condicionales2.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\Condicionales2\Condicionales2\obj\Debug\netcoreapp3.1\Condicionales2.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\Condicionales2\Condicionales2\obj\Debug\netcoreapp3.1\Condicionales2.dll
+C:\Users\Alejandro\source\repos\Condicionales2\Condicionales2\obj\Debug\netcoreapp3.1\Condicionales2.pdb
+C:\Users\Alejandro\source\repos\Condicionales2\Condicionales2\obj\Debug\netcoreapp3.1\Condicionales2.genruntimeconfig.cache

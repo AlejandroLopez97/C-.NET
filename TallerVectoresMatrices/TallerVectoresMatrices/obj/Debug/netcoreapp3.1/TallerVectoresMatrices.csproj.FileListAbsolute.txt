@@ -1,0 +1,13 @@
+C:\Users\Alejandro\source\repos\TallerVectoresMatrices\TallerVectoresMatrices\bin\Debug\netcoreapp3.1\TallerVectoresMatrices.exe
+C:\Users\Alejandro\source\repos\TallerVectoresMatrices\TallerVectoresMatrices\bin\Debug\netcoreapp3.1\TallerVectoresMatrices.deps.json
+C:\Users\Alejandro\source\repos\TallerVectoresMatrices\TallerVectoresMatrices\bin\Debug\netcoreapp3.1\TallerVectoresMatrices.runtimeconfig.json
+C:\Users\Alejandro\source\repos\TallerVectoresMatrices\TallerVectoresMatrices\bin\Debug\netcoreapp3.1\TallerVectoresMatrices.runtimeconfig.dev.json
+C:\Users\Alejandro\source\repos\TallerVectoresMatrices\TallerVectoresMatrices\bin\Debug\netcoreapp3.1\TallerVectoresMatrices.dll
+C:\Users\Alejandro\source\repos\TallerVectoresMatrices\TallerVectoresMatrices\bin\Debug\netcoreapp3.1\TallerVectoresMatrices.pdb
+C:\Users\Alejandro\source\repos\TallerVectoresMatrices\TallerVectoresMatrices\obj\Debug\netcoreapp3.1\TallerVectoresMatrices.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\TallerVectoresMatrices\TallerVectoresMatrices\obj\Debug\netcoreapp3.1\TallerVectoresMatrices.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\TallerVectoresMatrices\TallerVectoresMatrices\obj\Debug\netcoreapp3.1\TallerVectoresMatrices.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\TallerVectoresMatrices\TallerVectoresMatrices\obj\Debug\netcoreapp3.1\TallerVectoresMatrices.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\TallerVectoresMatrices\TallerVectoresMatrices\obj\Debug\netcoreapp3.1\TallerVectoresMatrices.dll
+C:\Users\Alejandro\source\repos\TallerVectoresMatrices\TallerVectoresMatrices\obj\Debug\netcoreapp3.1\TallerVectoresMatrices.pdb
+C:\Users\Alejandro\source\repos\TallerVectoresMatrices\TallerVectoresMatrices\obj\Debug\netcoreapp3.1\TallerVectoresMatrices.genruntimeconfig.cache

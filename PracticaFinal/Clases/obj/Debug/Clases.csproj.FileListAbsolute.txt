@@ -1,0 +1,13 @@
+C:\Users\Alejandro\source\repos\PracticaFinal\Clases\bin\Debug\Clases.dll
+C:\Users\Alejandro\source\repos\PracticaFinal\Clases\bin\Debug\Clases.pdb
+C:\Users\Alejandro\source\repos\PracticaFinal\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\PracticaFinal\Clases\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alejandro\source\repos\PracticaFinal\Clases\obj\Debug\Clases_MarkupCompile.cache
+C:\Users\Alejandro\source\repos\PracticaFinal\Clases\obj\Debug\Clases_MarkupCompile.lref
+C:\Users\Alejandro\source\repos\PracticaFinal\Clases\obj\Debug\Themes\Generic.baml
+C:\Users\Alejandro\source\repos\PracticaFinal\Clases\obj\Debug\Clases.g.resources
+C:\Users\Alejandro\source\repos\PracticaFinal\Clases\obj\Debug\Clases.Properties.Resources.resources
+C:\Users\Alejandro\source\repos\PracticaFinal\Clases\obj\Debug\Clases.csproj.GenerateResource.cache
+C:\Users\Alejandro\source\repos\PracticaFinal\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\PracticaFinal\Clases\obj\Debug\Clases.dll
+C:\Users\Alejandro\source\repos\PracticaFinal\Clases\obj\Debug\Clases.pdb

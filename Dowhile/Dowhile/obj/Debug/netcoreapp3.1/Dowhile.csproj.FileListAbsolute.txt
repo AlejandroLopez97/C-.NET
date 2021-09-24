@@ -1,0 +1,13 @@
+C:\Users\Alejandro\source\repos\Dowhile\Dowhile\bin\Debug\netcoreapp3.1\Dowhile.exe
+C:\Users\Alejandro\source\repos\Dowhile\Dowhile\bin\Debug\netcoreapp3.1\Dowhile.deps.json
+C:\Users\Alejandro\source\repos\Dowhile\Dowhile\bin\Debug\netcoreapp3.1\Dowhile.runtimeconfig.json
+C:\Users\Alejandro\source\repos\Dowhile\Dowhile\bin\Debug\netcoreapp3.1\Dowhile.runtimeconfig.dev.json
+C:\Users\Alejandro\source\repos\Dowhile\Dowhile\bin\Debug\netcoreapp3.1\Dowhile.dll
+C:\Users\Alejandro\source\repos\Dowhile\Dowhile\bin\Debug\netcoreapp3.1\Dowhile.pdb
+C:\Users\Alejandro\source\repos\Dowhile\Dowhile\obj\Debug\netcoreapp3.1\Dowhile.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\Dowhile\Dowhile\obj\Debug\netcoreapp3.1\Dowhile.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\Dowhile\Dowhile\obj\Debug\netcoreapp3.1\Dowhile.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\Dowhile\Dowhile\obj\Debug\netcoreapp3.1\Dowhile.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\Dowhile\Dowhile\obj\Debug\netcoreapp3.1\Dowhile.dll
+C:\Users\Alejandro\source\repos\Dowhile\Dowhile\obj\Debug\netcoreapp3.1\Dowhile.pdb
+C:\Users\Alejandro\source\repos\Dowhile\Dowhile\obj\Debug\netcoreapp3.1\Dowhile.genruntimeconfig.cache

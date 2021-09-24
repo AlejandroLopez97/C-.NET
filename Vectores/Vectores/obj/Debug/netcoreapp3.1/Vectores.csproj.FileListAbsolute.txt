@@ -1,0 +1,13 @@
+C:\Users\Alejandro\source\repos\Vectores\Vectores\bin\Debug\netcoreapp3.1\Vectores.exe
+C:\Users\Alejandro\source\repos\Vectores\Vectores\bin\Debug\netcoreapp3.1\Vectores.deps.json
+C:\Users\Alejandro\source\repos\Vectores\Vectores\bin\Debug\netcoreapp3.1\Vectores.runtimeconfig.json
+C:\Users\Alejandro\source\repos\Vectores\Vectores\bin\Debug\netcoreapp3.1\Vectores.runtimeconfig.dev.json
+C:\Users\Alejandro\source\repos\Vectores\Vectores\bin\Debug\netcoreapp3.1\Vectores.dll
+C:\Users\Alejandro\source\repos\Vectores\Vectores\bin\Debug\netcoreapp3.1\Vectores.pdb
+C:\Users\Alejandro\source\repos\Vectores\Vectores\obj\Debug\netcoreapp3.1\Vectores.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\Vectores\Vectores\obj\Debug\netcoreapp3.1\Vectores.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\Vectores\Vectores\obj\Debug\netcoreapp3.1\Vectores.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\Vectores\Vectores\obj\Debug\netcoreapp3.1\Vectores.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\Vectores\Vectores\obj\Debug\netcoreapp3.1\Vectores.dll
+C:\Users\Alejandro\source\repos\Vectores\Vectores\obj\Debug\netcoreapp3.1\Vectores.pdb
+C:\Users\Alejandro\source\repos\Vectores\Vectores\obj\Debug\netcoreapp3.1\Vectores.genruntimeconfig.cache

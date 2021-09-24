@@ -1,0 +1,13 @@
+C:\Users\Alejandro\source\repos\DeVectorAMatriz\DeVectorAMatriz\bin\Debug\netcoreapp3.1\DeVectorAMatriz.exe
+C:\Users\Alejandro\source\repos\DeVectorAMatriz\DeVectorAMatriz\bin\Debug\netcoreapp3.1\DeVectorAMatriz.deps.json
+C:\Users\Alejandro\source\repos\DeVectorAMatriz\DeVectorAMatriz\bin\Debug\netcoreapp3.1\DeVectorAMatriz.runtimeconfig.json
+C:\Users\Alejandro\source\repos\DeVectorAMatriz\DeVectorAMatriz\bin\Debug\netcoreapp3.1\DeVectorAMatriz.runtimeconfig.dev.json
+C:\Users\Alejandro\source\repos\DeVectorAMatriz\DeVectorAMatriz\bin\Debug\netcoreapp3.1\DeVectorAMatriz.dll
+C:\Users\Alejandro\source\repos\DeVectorAMatriz\DeVectorAMatriz\bin\Debug\netcoreapp3.1\DeVectorAMatriz.pdb
+C:\Users\Alejandro\source\repos\DeVectorAMatriz\DeVectorAMatriz\obj\Debug\netcoreapp3.1\DeVectorAMatriz.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\DeVectorAMatriz\DeVectorAMatriz\obj\Debug\netcoreapp3.1\DeVectorAMatriz.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\DeVectorAMatriz\DeVectorAMatriz\obj\Debug\netcoreapp3.1\DeVectorAMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\DeVectorAMatriz\DeVectorAMatriz\obj\Debug\netcoreapp3.1\DeVectorAMatriz.dll
+C:\Users\Alejandro\source\repos\DeVectorAMatriz\DeVectorAMatriz\obj\Debug\netcoreapp3.1\DeVectorAMatriz.pdb
+C:\Users\Alejandro\source\repos\DeVectorAMatriz\DeVectorAMatriz\obj\Debug\netcoreapp3.1\DeVectorAMatriz.genruntimeconfig.cache
+C:\Users\Alejandro\source\repos\DeVectorAMatriz\DeVectorAMatriz\obj\Debug\netcoreapp3.1\DeVectorAMatriz.csprojAssemblyReference.cache

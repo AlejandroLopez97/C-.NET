@@ -1,0 +1,13 @@
+C:\Users\Alejandro\source\repos\CicloFor\CicloFor\bin\Debug\netcoreapp3.1\CicloFor.exe
+C:\Users\Alejandro\source\repos\CicloFor\CicloFor\bin\Debug\netcoreapp3.1\CicloFor.deps.json
+C:\Users\Alejandro\source\repos\CicloFor\CicloFor\bin\Debug\netcoreapp3.1\CicloFor.runtimeconfig.json
+C:\Users\Alejandro\source\repos\CicloFor\CicloFor\bin\Debug\netcoreapp3.1\CicloFor.runtimeconfig.dev.json
+C:\Users\Alejandro\source\repos\CicloFor\CicloFor\bin\Debug\netcoreapp3.1\CicloFor.dll
+C:\Users\Alejandro\source\repos\CicloFor\CicloFor\bin\Debug\netcoreapp3.1\CicloFor.pdb
+C:\Users\Alejandro\source\repos\CicloFor\CicloFor\obj\Debug\netcoreapp3.1\CicloFor.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\CicloFor\CicloFor\obj\Debug\netcoreapp3.1\CicloFor.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\CicloFor\CicloFor\obj\Debug\netcoreapp3.1\CicloFor.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\CicloFor\CicloFor\obj\Debug\netcoreapp3.1\CicloFor.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\CicloFor\CicloFor\obj\Debug\netcoreapp3.1\CicloFor.dll
+C:\Users\Alejandro\source\repos\CicloFor\CicloFor\obj\Debug\netcoreapp3.1\CicloFor.pdb
+C:\Users\Alejandro\source\repos\CicloFor\CicloFor\obj\Debug\netcoreapp3.1\CicloFor.genruntimeconfig.cache
